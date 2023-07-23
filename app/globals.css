@@ -15,15 +15,11 @@ body {
 }
 
 .flexCenter {
-  @apply flex justify-center items-center;
+  @apply flex justify-between items-center;
 }
 
 .flexBetween {
   @apply flex justify-between items-center;
-}
-
-.flexStart {
-  @apply flex items-center justify-start;
 }
 
 .text-small {
