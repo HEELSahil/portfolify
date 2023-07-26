@@ -22,6 +22,10 @@ body {
   @apply flex justify-between items-center;
 }
 
+.flexStart {
+  @apply flex items-center justify-start;
+}
+
 .text-small {
   @apply text-sm font-medium;
 }
